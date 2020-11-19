@@ -6,7 +6,6 @@ import {ReferencesAll} from './styles'
 const References:React.FC = () => {
     return (
         <>
-        <MenuLink />
         <ReferencesAll>
             <ul>
                 <li>https://qariaty.com/soft-skills/</li>

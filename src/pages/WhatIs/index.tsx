@@ -6,7 +6,6 @@ import {WhatisAll} from './styles'
 const WhatIs:React.FC = () => {
     return (
         <>
-        <MenuLink/>
         <WhatisAll>
              <p id="content">
                 Existe dois tipos de skills que um profissional pode ter, hard skills e soft skills. 

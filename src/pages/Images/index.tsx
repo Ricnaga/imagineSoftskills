@@ -11,7 +11,6 @@ import {ImageAll} from './styles'
 const Images:React.FC = () => {
     return (
         <>
-        <MenuLink/>            
         <ImageAll>
             <img src={ssImg1} alt="soft skill de exemplo"/>
             <img src={ssImg2} alt="soft skill de exemplo"/>

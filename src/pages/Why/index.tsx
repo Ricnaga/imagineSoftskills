@@ -6,7 +6,6 @@ import {WhyAll} from './styles'
 const Why:React.FC = () => {
     return (
         <>
-        <MenuLink/>
         <WhyAll>
             <p>
                 Eis alguns pontos para se destacar do por que devemos adquirir melhor soft skills, os benefícios de um profissional com soft skills são foco, engajamento, motivação, produtividade e melhorar preparação para as exigências do mercado de trabalho.

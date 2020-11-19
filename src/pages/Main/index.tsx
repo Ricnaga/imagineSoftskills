@@ -6,7 +6,6 @@ import {MainAll} from './styles';
 const Main:React.FC = () => {
     return (
         <>
-        <MenuLink/>
         <MainAll>
         <h1>Desafio Expansion Week</h1>
         <h2>O desafio da Expansion Week será criar uma landing page do zero.</h2>
