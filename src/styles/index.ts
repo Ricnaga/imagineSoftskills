@@ -20,7 +20,8 @@ export default createGlobalStyle`
 
 body{
     height:100vh;
-    background:linear-gradient(329.54deg, #1E90FF 0%, #87CEFA 100%) no-repeat;
+    background:linear-gradient(329.54deg, #1E90FF 0%, #87CEFA 100%) no-repeat center;
+    background-size:cover;
     font-family: 'Balsamiq Sans', cursive;
     color:#B22222;
 }
