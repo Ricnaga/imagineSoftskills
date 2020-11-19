@@ -7,9 +7,9 @@ const Header:React.FC = () => {
     return (
         <HeaderNav>
             <Link to="/"> Página principal </Link> |
-            <Link to="/WhatIs"> O que é? </Link> |
+            <Link to="/Whatis"> O que é? </Link> |
             <Link to="/why"> Por que ? </Link> |
-            <Link to="/Images"> Ibagens </Link> |
+            <Link to="/images"> Imagens </Link> |
             <Link to="/references"> Referências </Link>
         </HeaderNav>
     )
