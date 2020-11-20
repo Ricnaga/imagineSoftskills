@@ -4,7 +4,8 @@ export const WhyAll = styled.div`
     width:70vw;
     margin:1em auto;
     padding: 0.4em 0;
-
+    animation: up 1s;
+    
     p#whyHeader{
         font-size:1.5em;
     }

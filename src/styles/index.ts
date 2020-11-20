@@ -26,4 +26,16 @@ body{
     font-family: 'Balsamiq Sans', cursive;
     color:#B22222;
 }
+
+@keyframes up{
+    from{
+        opacity: 0;
+        transform: translateY(64px);
+    }
+    
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 `;

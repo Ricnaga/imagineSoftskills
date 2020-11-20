@@ -5,6 +5,7 @@ export const ImageAll = styled.div`
     flex-direction:column;
     justify-content:center;
     align-items:center;
+    animation: up 1s;
 
     img{
         width:60vw;

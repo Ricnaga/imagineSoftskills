@@ -8,6 +8,7 @@ export const ReferencesAll = styled.div`
     justify-content:center;
     align-items:center;
     text-align:justify; 
+    animation: up 1s;
     
     
     li{
@@ -15,7 +16,7 @@ export const ReferencesAll = styled.div`
         text-transform:uppercase;
         
         a{
-            color:#FFC300;
+            color:#581845;
             text-decoration:none;
         }
     }
