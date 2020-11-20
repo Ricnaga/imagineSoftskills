@@ -11,7 +11,12 @@ export const HeaderNav = styled.nav`
     
     a{
         text-decoration:none;
-        color:#FFC300;
+        color:#581845;
+        transition: opacity 0.2s;
+
+        &:hover{
+            opacity:0.5;
+        }
     }
 
     @media(max-width:720px){

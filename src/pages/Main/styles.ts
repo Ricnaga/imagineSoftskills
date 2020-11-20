@@ -6,6 +6,8 @@ export const MainAll = styled.div`
     text-align:center;
     margin:1em auto;
 
+    animation: up 1s;
+
     h1{
         margin:0.3em auto;
         font-size:2em;
