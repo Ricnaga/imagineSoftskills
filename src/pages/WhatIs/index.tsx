@@ -1,6 +1,5 @@
 import React from 'react';
 
-import MenuLink from '../../components/Header'
 import {WhatisAll} from './styles'
 
 const WhatIs:React.FC = () => {

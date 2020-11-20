@@ -1,6 +1,5 @@
 import React from 'react';
 
-import MenuLink from '../../components/Header'
 import {MainAll} from './styles';
 
 const Main:React.FC = () => {
@@ -19,13 +18,13 @@ const Main:React.FC = () => {
         </div>
 
         <div>
-            <p>Comecemos com algumas dúvidas:
+            <p id="questionsTitle">Comecemos com algumas dúvidas:</p>
                 <ul id="questions">
                     <li><strong>O que é soft skill ?</strong></li>
                     <li><strong>Por que se deve ter soft skill ?</strong></li>
                     <li><strong>Quais os requisitos para desenvolver ?</strong></li>
                 </ul>
-            </p>
+
         </div>
 
         

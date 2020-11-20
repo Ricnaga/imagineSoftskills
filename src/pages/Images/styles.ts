@@ -7,7 +7,14 @@ export const ImageAll = styled.div`
     align-items:center;
 
     img{
-        width:750px;
+        width:60vw;
         margin:1em;
+    }
+
+    @media(max-width:720px){
+
+        img{
+            width:80vw;
+        }
     }
 `;

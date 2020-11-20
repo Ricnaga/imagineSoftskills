@@ -1,6 +1,5 @@
 import React from 'react';
 
-import MenuLink from '../../components/Header'
 import ssImg1 from './ss1.png'
 import ssImg2 from './ss2.png'
 import ssImg3 from './ss3.jpg'
